@@ -12,4 +12,4 @@ https://live-b.cf.dmcdn.net/sec2(FtQlipp84BYOcBD5U-8GBG7pqnZTwAh8g949BoRe-rmZ0ue
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.s7zGTeEumlqpm9Vp8h8blAHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",REDETV 
 https://live-b.cf.dmcdn.net/sec2(xmRCtwVuZxnhzzTSRxbMoeNIOWVnxoNAtL_53asi3tkKrLXbD9p0aveD1ItLo_HzTADGI9yg6yT_V4DxDFvs4R7J7ouCrsKom96_GEyMV1jy5QRfxQhIFNV0dKvoUFo1)/dm/3/x8xps0s/d/live-1080.m3u8#cell=lcfb
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th/id/OIP.2nViMEcaCKIYARptbA_6-gHaF8?w=200&h=180&c=7&r=0&o=5&pid=1.7",BANDTV 
-https://live-b2.cf.dmcdn.net/sec2(FIoiP2g-0vy_ACEy03Cj2iaP5hPVdiYWDYo7xfdSytJdxYuXWWyvtS016tIzjgfrOD2teGdeSJ5P_k9v5D70wGUnROq7-AGNkxIC7tD6Q6aWaRra0oaAuda_E8Irn66P)/cloud/3/x8nkbc2/s/live-1080.m3u8#cell=lcfb2
+https://live-b2.cf.dmcdn.net/sec2(FIoiP2g-0vy_ACEy03Cj2iaP5hPVdiYWDYo7xfdSytJdxYuXWWyvtS016tIzjgfrOD2teGdeSJ5P_k9v5D70wGUnROq7-AGNkxIC7tD6Q6aWaRra0oaAuda_E8Irn66P)/cloud/3/x8nkbc2/s/live-1080.m3u8#cell=lcfb2 
